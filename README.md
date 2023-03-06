@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # RPN Calculator
 
 Welcome to RPN Calculator on Exercism's Rust Track.
